@@ -1,0 +1,585 @@
+[02:42:04 - main] [Cooja.java:3172] [WARN] - JAVA_HOME environment variable not set, Cooja motes may not compile
+[02:42:04 - AWT-EventQueue-0] [Cooja.java:2856] [INFO] - External tools default settings: /external_tools_linux_64.config
+[02:42:04 - AWT-EventQueue-0] [Cooja.java:2886] [INFO] - External tools user settings: /root/.cooja.user.properties
+[02:42:21 - Thread-0] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[02:42:21 - Thread-0] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[02:42:22 - Thread-0] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[02:42:22 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[02:42:22 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[02:42:23 - Thread-0] [Visualizer.java:256] [INFO] - Registered external visualizer: org.contikios.cooja.plugins.skins.DGRMVisualizerSkin
+[02:42:23 - Thread-0] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[02:42:33 - Thread-1] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703126553256
+[02:42:33 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703126553628.pcap
+[02:42:33 - Thread-1] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[02:42:36 - Thread-1] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703126556216	Duration: 2960 ms	Simulated time 207103 ms	Ratio 69.96722972972972
+[03:01:35 - Thread-2] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[03:01:35 - Thread-2] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[03:01:42 - Thread-2] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[03:01:42 - Thread-2] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[03:01:43 - Thread-2] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[03:01:44 - Thread-2] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[03:01:47 - Thread-3] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703127707077
+[03:01:47 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703127707229.pcap
+[03:01:47 - Thread-3] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[03:01:48 - Thread-3] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703127708932	Duration: 1855 ms	Simulated time 150648 ms	Ratio 81.21185983827493
+[13:40:41 - Thread-4] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703338841933
+[13:41:02 - Thread-4] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703338862253	Duration: 20320 ms	Simulated time 2242525 ms	Ratio 110.36048228346456
+[13:51:42 - Thread-5] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[13:51:42 - Thread-5] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[13:51:43 - Thread-5] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[13:51:43 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[13:51:44 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[13:51:44 - Thread-5] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[13:51:46 - Thread-6] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703339506618
+[13:51:46 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703339506771.pcap
+[13:51:46 - Thread-6] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[13:52:07 - Thread-6] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703339527942	Duration: 21324 ms	Simulated time 2189034 ms	Ratio 102.65588069780529
+[14:01:27 - Thread-7] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[14:01:27 - Thread-7] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[14:01:28 - Thread-7] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[14:01:28 - Thread-7] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[14:01:28 - Thread-7] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[14:01:29 - Thread-7] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[14:01:30 - Thread-8] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703340090325
+[14:01:30 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703340090454.pcap
+[14:01:30 - Thread-8] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[14:01:33 - Thread-8] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703340093738	Duration: 3413 ms	Simulated time 341596 ms	Ratio 100.08672721945503
+[14:02:39 - Thread-9] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[14:02:39 - Thread-9] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[14:02:40 - Thread-9] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[14:02:40 - Thread-9] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[14:02:41 - Thread-9] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[14:02:41 - Thread-9] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[14:02:42 - Thread-10] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703340162940
+[14:02:43 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703340163038.pcap
+[14:02:43 - Thread-10] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[14:02:46 - Thread-10] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703340166525	Duration: 3585 ms	Simulated time 350621 ms	Ratio 97.80223152022315
+[14:08:03 - Thread-11] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[14:08:03 - Thread-11] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[14:08:03 - Thread-11] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[14:08:04 - Thread-11] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[14:08:04 - Thread-11] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[14:08:04 - Thread-11] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[14:08:06 - Thread-12] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703340486387
+[14:08:06 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703340486488.pcap
+[14:08:06 - Thread-12] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[14:08:08 - Thread-12] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703340488262	Duration: 1875 ms	Simulated time 169285 ms	Ratio 90.28533333333333
+[14:17:22 - Thread-13] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[14:17:22 - Thread-13] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[14:17:23 - Thread-13] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[14:17:23 - Thread-13] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[14:17:23 - Thread-13] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[14:17:24 - Thread-13] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[14:17:25 - Thread-14] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703341045936
+[14:17:26 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703341046030.pcap
+[14:17:26 - Thread-14] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[14:17:46 - Thread-14] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703341066943	Duration: 21007 ms	Simulated time 2135171 ms	Ratio 101.6409292140715
+[14:18:39 - Thread-15] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[14:18:39 - Thread-15] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[14:18:40 - Thread-15] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[14:18:40 - Thread-15] [SkyMoteType.java:171] [FATAL] - >>   CC        6lowpan-nd-contiki/core/net/ip/tcpip.c
+[14:18:40 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ip/tcpip.c: In function ‘eventhandler’:
+[14:18:40 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ip/tcpip.c:472:18: error: ‘defrt’ undeclared (first use in this function)
+[14:18:40 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ip/tcpip.c:472:18: note: each undeclared identifier is reported only once for each function it appears in
+[14:18:40 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ip/tcpip.c:472:36: warning: statement with no effect [-Wunused-value]
+[14:18:40 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ip/tcpip.c:473:20: error: expected ‘;’ before ‘(’ token
+[14:18:40 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ip/tcpip.c:473:39: error: expected statement before ‘)’ token
+[14:18:40 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ip/tcpip.c:473:6: error: label ‘etimer_expired’ used but not defined
+[14:18:40 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> make: *** [6lowpan-nd-contiki/Makefile.include:241: obj_sky/tcpip.o] Error 1
+[14:18:40 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> Process returned error code 2
+[14:18:40 - Thread-15] [SkyMoteType.java:174] [FATAL] - Compilation error: Bad return value
+[14:28:31 - Thread-15] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[14:28:31 - Thread-15] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[14:28:31 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:415:5: warning: passing argument 1 of ‘create_aro’ from incompatible pointer type [enabled by default]
+[14:28:31 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:146:1: note: expected ‘struct uip_nd6_opt_aro *’ but argument is of type ‘uint8_t *’
+[14:28:31 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:419:5: warning: passing argument 1 of ‘create_aro’ from incompatible pointer type [enabled by default]
+[14:28:31 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:146:1: note: expected ‘struct uip_nd6_opt_aro *’ but argument is of type ‘uint8_t *’
+[14:28:31 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:424:5: warning: passing argument 1 of ‘create_aro’ from incompatible pointer type [enabled by default]
+[14:28:31 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:146:1: note: expected ‘struct uip_nd6_opt_aro *’ but argument is of type ‘uint8_t *’
+[14:28:31 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c: At top level:
+[14:28:31 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:116:25: warning: ‘nd6_opt_6co’ defined but not used [-Wunused-variable]
+[14:28:31 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> make: *** [6lowpan-nd-contiki/Makefile.include:241: obj_sky/uip-6lowpan-nd6.o] Error 1
+[14:28:31 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> Process returned error code 2
+[14:28:31 - Thread-15] [SkyMoteType.java:174] [FATAL] - Compilation error: Bad return value
+[14:29:03 - Thread-15] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[14:29:03 - Thread-15] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[14:29:03 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:415:5: warning: passing argument 1 of ‘create_aro’ from incompatible pointer type [enabled by default]
+[14:29:03 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:146:1: note: expected ‘struct uip_nd6_opt_aro *’ but argument is of type ‘uint8_t *’
+[14:29:03 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:419:5: warning: passing argument 1 of ‘create_aro’ from incompatible pointer type [enabled by default]
+[14:29:03 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:146:1: note: expected ‘struct uip_nd6_opt_aro *’ but argument is of type ‘uint8_t *’
+[14:29:03 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:424:5: warning: passing argument 1 of ‘create_aro’ from incompatible pointer type [enabled by default]
+[14:29:03 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:146:1: note: expected ‘struct uip_nd6_opt_aro *’ but argument is of type ‘uint8_t *’
+[14:29:03 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c: At top level:
+[14:29:03 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:116:25: warning: ‘nd6_opt_6co’ defined but not used [-Wunused-variable]
+[14:29:03 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> make: *** [6lowpan-nd-contiki/Makefile.include:241: obj_sky/uip-6lowpan-nd6.o] Error 1
+[14:29:03 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> Process returned error code 2
+[14:29:03 - Thread-15] [SkyMoteType.java:174] [FATAL] - Compilation error: Bad return value
+[14:29:27 - Thread-15] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[14:29:27 - Thread-15] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[14:29:27 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:415:5: warning: passing argument 1 of ‘create_aro’ from incompatible pointer type [enabled by default]
+[14:29:27 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:146:1: note: expected ‘struct uip_nd6_opt_aro *’ but argument is of type ‘uint8_t *’
+[14:29:27 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:419:5: warning: passing argument 1 of ‘create_aro’ from incompatible pointer type [enabled by default]
+[14:29:27 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:146:1: note: expected ‘struct uip_nd6_opt_aro *’ but argument is of type ‘uint8_t *’
+[14:29:27 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:424:5: warning: passing argument 1 of ‘create_aro’ from incompatible pointer type [enabled by default]
+[14:29:27 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:146:1: note: expected ‘struct uip_nd6_opt_aro *’ but argument is of type ‘uint8_t *’
+[14:29:27 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c: At top level:
+[14:29:27 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:116:25: warning: ‘nd6_opt_6co’ defined but not used [-Wunused-variable]
+[14:29:27 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> make: *** [6lowpan-nd-contiki/Makefile.include:241: obj_sky/uip-6lowpan-nd6.o] Error 1
+[14:29:27 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> Process returned error code 2
+[14:29:27 - Thread-15] [SkyMoteType.java:174] [FATAL] - Compilation error: Bad return value
+[14:32:36 - Thread-15] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[14:32:36 - Thread-15] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[14:32:37 - Thread-15] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[14:32:37 - Thread-15] [SkyMoteType.java:171] [FATAL] - >>   CC        6lowpan-nd-contiki/core/net/ip/tcpip.c
+[14:32:37 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ip/tcpip.c: In function ‘eventhandler’:
+[14:32:37 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ip/tcpip.c:472:18: error: ‘defrt’ undeclared (first use in this function)
+[14:32:37 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ip/tcpip.c:472:18: note: each undeclared identifier is reported only once for each function it appears in
+[14:32:37 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ip/tcpip.c:472:36: warning: statement with no effect [-Wunused-value]
+[14:32:37 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ip/tcpip.c:473:20: error: expected ‘;’ before ‘(’ token
+[14:32:37 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ip/tcpip.c:473:40: error: expected statement before ‘)’ token
+[14:32:37 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ip/tcpip.c:473:6: error: label ‘etimer_expired’ used but not defined
+[14:32:37 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> make: *** [6lowpan-nd-contiki/Makefile.include:241: obj_sky/tcpip.o] Error 1
+[14:32:37 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> Process returned error code 2
+[14:32:37 - Thread-15] [SkyMoteType.java:174] [FATAL] - Compilation error: Bad return value
+[14:38:25 - Thread-15] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[14:38:25 - Thread-15] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[14:38:25 - Thread-15] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[14:38:25 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 
+[14:38:25 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> > make ln.sky TARGET=sky 
+[14:38:25 - Thread-15] [SkyMoteType.java:171] [FATAL] - >>   CC        6lowpan-nd-contiki/core/net/ip/tcpip.c
+[14:38:25 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ip/tcpip.c: In function ‘eventhandler’:
+[14:38:25 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ip/tcpip.c:474:36: warning: statement with no effect [-Wunused-value]
+[14:38:25 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ip/tcpip.c:475:20: error: expected ‘;’ before ‘(’ token
+[14:38:25 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ip/tcpip.c:475:40: error: expected statement before ‘)’ token
+[14:38:25 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ip/tcpip.c:475:6: error: label ‘etimer_expired’ used but not defined
+[14:38:25 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> make: *** [6lowpan-nd-contiki/Makefile.include:241: obj_sky/tcpip.o] Error 1
+[14:38:25 - Thread-15] [SkyMoteType.java:171] [FATAL] - >> Process returned error code 2
+[14:38:25 - Thread-15] [SkyMoteType.java:174] [FATAL] - Compilation error: Bad return value
+[14:39:21 - Thread-15] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[14:39:21 - Thread-15] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[14:39:22 - Thread-15] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[14:39:22 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[14:39:22 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[14:39:23 - Thread-15] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[14:39:26 - Thread-22] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703342366504
+[14:39:26 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703342366607.pcap
+[14:39:26 - Thread-22] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[14:39:45 - Thread-22] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703342385417	Duration: 18913 ms	Simulated time 1994761 ms	Ratio 105.47036429968804
+[14:40:13 - Thread-23] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[14:40:13 - Thread-23] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[14:40:13 - Thread-23] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[14:40:13 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> 
+[14:40:13 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> > make ln.sky TARGET=sky 
+[14:40:13 - Thread-23] [SkyMoteType.java:171] [FATAL] - >>   CC        6lowpan-nd-contiki/core/net/ip/tcpip.c
+[14:40:13 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ip/tcpip.c: In function ‘eventhandler’:
+[14:40:13 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ip/tcpip.c:474:18: error: ‘defrt’ undeclared (first use in this function)
+[14:40:13 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ip/tcpip.c:474:18: note: each undeclared identifier is reported only once for each function it appears in
+[14:40:13 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> make: *** [6lowpan-nd-contiki/Makefile.include:241: obj_sky/tcpip.o] Error 1
+[14:40:13 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> Process returned error code 2
+[14:40:13 - Thread-23] [SkyMoteType.java:174] [FATAL] - Compilation error: Bad return value
+[14:40:29 - Thread-23] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[14:40:29 - Thread-23] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[14:40:29 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:414:5: warning: passing argument 1 of ‘create_aro’ from incompatible pointer type [enabled by default]
+[14:40:29 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:145:1: note: expected ‘struct uip_nd6_opt_aro *’ but argument is of type ‘uint8_t *’
+[14:40:29 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:418:5: warning: passing argument 1 of ‘create_aro’ from incompatible pointer type [enabled by default]
+[14:40:29 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:145:1: note: expected ‘struct uip_nd6_opt_aro *’ but argument is of type ‘uint8_t *’
+[14:40:29 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:423:5: warning: passing argument 1 of ‘create_aro’ from incompatible pointer type [enabled by default]
+[14:40:29 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:145:1: note: expected ‘struct uip_nd6_opt_aro *’ but argument is of type ‘uint8_t *’
+[14:40:29 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c: At top level:
+[14:40:29 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:115:25: warning: ‘nd6_opt_6co’ defined but not used [-Wunused-variable]
+[14:40:29 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> make: *** [6lowpan-nd-contiki/Makefile.include:241: obj_sky/uip-6lowpan-nd6.o] Error 1
+[14:40:29 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> Process returned error code 2
+[14:40:29 - Thread-23] [SkyMoteType.java:174] [FATAL] - Compilation error: Bad return value
+[14:41:24 - Thread-23] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[14:41:24 - Thread-23] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[14:41:25 - Thread-23] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[14:41:25 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> 
+[14:41:25 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> > make ln.sky TARGET=sky 
+[14:41:25 - Thread-23] [SkyMoteType.java:171] [FATAL] - >>   CC        6lowpan-nd-contiki/cpu/msp430/./cc2420-arch.c
+[14:41:25 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> In file included from 6lowpan-nd-contiki/core/./net/ipv6/uip-ds6.h:52:0,
+[14:41:25 - Thread-23] [SkyMoteType.java:171] [FATAL] - >>                  from 6lowpan-nd-contiki/core/./contiki-net.h:51,
+[14:41:25 - Thread-23] [SkyMoteType.java:171] [FATAL] - >>                  from 6lowpan-nd-contiki/cpu/msp430/./cc2420-arch.c:32:
+[14:41:25 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/./net/ipv6/uip-6lowpan-nd6.h:51:1: error: unknown type name ‘uip_ds6_defrt_t’
+[14:41:25 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> make: *** [6lowpan-nd-contiki/Makefile.include:241: obj_sky/cc2420-arch.o] Error 1
+[14:41:25 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> Process returned error code 2
+[14:41:25 - Thread-23] [SkyMoteType.java:174] [FATAL] - Compilation error: Bad return value
+[14:43:04 - Thread-23] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[14:43:04 - Thread-23] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[14:43:04 - Thread-23] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[14:43:04 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> 
+[14:43:04 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> > make ln.sky TARGET=sky 
+[14:43:04 - Thread-23] [SkyMoteType.java:171] [FATAL] - >>   CC        6lowpan-nd-contiki/cpu/msp430/./cc2420-arch.c
+[14:43:04 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> In file included from 6lowpan-nd-contiki/core/./net/ipv6/uip-ds6.h:52:0,
+[14:43:04 - Thread-23] [SkyMoteType.java:171] [FATAL] - >>                  from 6lowpan-nd-contiki/core/./contiki-net.h:51,
+[14:43:04 - Thread-23] [SkyMoteType.java:171] [FATAL] - >>                  from 6lowpan-nd-contiki/cpu/msp430/./cc2420-arch.c:32:
+[14:43:04 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/./net/ipv6/uip-6lowpan-nd6.h:52:1: error: unknown type name ‘uip_ds6_defrt_t’
+[14:43:04 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> make: *** [6lowpan-nd-contiki/Makefile.include:241: obj_sky/cc2420-arch.o] Error 1
+[14:43:04 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> Process returned error code 2
+[14:43:04 - Thread-23] [SkyMoteType.java:174] [FATAL] - Compilation error: Bad return value
+[14:43:26 - Thread-23] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[14:43:26 - Thread-23] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[14:43:26 - Thread-23] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[14:43:27 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> In file included from 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:48:0:
+[14:43:27 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/./net/ipv6/uip-ds6-reg.h:130:16: note: expected ‘struct uip_ds6_addr *’ but argument is of type ‘union uip_ip6addr_t *’
+[14:43:27 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:338:26: warning: passing argument 1 of ‘uip_ds6_reg_update’ from incompatible pointer type [enabled by default]
+[14:43:27 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> In file included from 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:48:0:
+[14:43:27 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/./net/ipv6/uip-ds6-reg.h:151:6: note: expected ‘struct uip_ds6_addr *’ but argument is of type ‘union uip_ip6addr_t *’
+[14:43:27 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:174:11: warning: variable ‘reg_status’ set but not used [-Wunused-but-set-variable]
+[14:43:27 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c: At top level:
+[14:43:27 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ipv6/uip-6lowpan-nd6.c:159:1: warning: ‘create_abro’ defined but not used [-Wunused-function]
+[14:43:27 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> make: *** [6lowpan-nd-contiki/Makefile.include:241: obj_sky/uip-6lowpan-nd6.o] Error 1
+[14:43:27 - Thread-23] [SkyMoteType.java:171] [FATAL] - >> Process returned error code 2
+[14:43:27 - Thread-23] [SkyMoteType.java:174] [FATAL] - Compilation error: Bad return value
+[14:43:48 - Thread-23] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[14:43:48 - Thread-23] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[14:43:48 - Thread-23] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[14:43:51 - Thread-23] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[14:43:51 - Thread-23] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[14:43:52 - Thread-23] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[14:43:55 - Thread-29] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703342635807
+[14:43:55 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703342635909.pcap
+[14:43:55 - Thread-29] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[14:44:17 - Thread-29] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703342657225	Duration: 21418 ms	Simulated time 2252308 ms	Ratio 105.15958539546176
+[14:48:28 - Thread-30] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[14:48:28 - Thread-30] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[14:48:29 - Thread-30] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[14:48:31 - Thread-30] [SkyMoteType.java:171] [FATAL] - >>   AR        contiki-sky.a
+[14:48:31 - Thread-30] [SkyMoteType.java:171] [FATAL] - >>   CC        ln.c
+[14:48:31 - Thread-30] [SkyMoteType.java:171] [FATAL] - >>   CC        6lowpan-nd-contiki/platform/sky/./contiki-sky-main.c
+[14:48:31 - Thread-30] [SkyMoteType.java:171] [FATAL] - >>   LD        ln.sky
+[14:48:31 - Thread-30] [SkyMoteType.java:171] [FATAL] - >> contiki-sky.a(tcpip.o): In function `tcpip_uipcall':
+[14:48:31 - Thread-30] [SkyMoteType.java:171] [FATAL] - >> /home/user/6lowpan-nd-contiki/6lowpan-nd-6ln/6lowpan-nd-contiki/core/net/ip/tcpip.c:820: undefined reference to `defrt'
+[14:48:31 - Thread-30] [SkyMoteType.java:171] [FATAL] - >> collect2: error: ld returned 1 exit status
+[14:48:31 - Thread-30] [SkyMoteType.java:171] [FATAL] - >> make: *** [6lowpan-nd-contiki/Makefile.include:281: ln.sky] Error 1
+[14:48:31 - Thread-30] [SkyMoteType.java:171] [FATAL] - >> rm obj_sky/contiki-sky-main.o ln.co
+[14:48:31 - Thread-30] [SkyMoteType.java:171] [FATAL] - >> Process returned error code 2
+[14:48:31 - Thread-30] [SkyMoteType.java:174] [FATAL] - Compilation error: Bad return value
+[14:49:25 - Thread-30] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[14:49:25 - Thread-30] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[14:49:26 - Thread-30] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[14:49:26 - Thread-30] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[14:49:26 - Thread-30] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[14:49:27 - Thread-30] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[14:54:00 - Thread-32] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[14:54:00 - Thread-32] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[14:54:01 - Thread-32] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[14:54:01 - Thread-32] [SkyMoteType.java:171] [FATAL] - >> 
+[14:54:01 - Thread-32] [SkyMoteType.java:171] [FATAL] - >> > make ln.sky TARGET=sky 
+[14:54:01 - Thread-32] [SkyMoteType.java:171] [FATAL] - >>   CC        6lowpan-nd-contiki/core/net/ip/tcpip.c
+[14:54:01 - Thread-32] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ip/tcpip.c: In function ‘eventhandler’:
+[14:54:01 - Thread-32] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ip/tcpip.c:472:18: error: ‘defrt’ undeclared (first use in this function)
+[14:54:01 - Thread-32] [SkyMoteType.java:171] [FATAL] - >> 6lowpan-nd-contiki/core/net/ip/tcpip.c:472:18: note: each undeclared identifier is reported only once for each function it appears in
+[14:54:01 - Thread-32] [SkyMoteType.java:171] [FATAL] - >> make: *** [6lowpan-nd-contiki/Makefile.include:241: obj_sky/tcpip.o] Error 1
+[14:54:01 - Thread-32] [SkyMoteType.java:171] [FATAL] - >> Process returned error code 2
+[14:54:01 - Thread-32] [SkyMoteType.java:174] [FATAL] - Compilation error: Bad return value
+[14:55:01 - Thread-32] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[14:55:01 - Thread-32] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[14:55:02 - Thread-32] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[14:55:02 - Thread-32] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[14:55:02 - Thread-32] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[14:55:03 - Thread-32] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[14:55:06 - Thread-34] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[14:55:06 - Thread-34] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[14:55:06 - Thread-34] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[14:55:06 - Thread-34] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[14:55:06 - Thread-34] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[14:55:07 - Thread-34] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[14:55:09 - Thread-35] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703343309096
+[14:55:09 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703343309197.pcap
+[14:55:09 - Thread-35] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[14:55:12 - Thread-35] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703343312790	Duration: 3694 ms	Simulated time 379285 ms	Ratio 102.67596101786681
+[15:05:01 - Thread-36] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[15:05:01 - Thread-36] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[15:05:01 - Thread-36] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[15:05:02 - Thread-36] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[15:05:02 - Thread-36] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[15:05:02 - Thread-36] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[15:05:04 - Thread-37] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703343904207
+[15:05:04 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703343904311.pcap
+[15:05:04 - Thread-37] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[15:05:24 - Thread-37] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703343924348	Duration: 20141 ms	Simulated time 2294152 ms	Ratio 113.9045727620277
+[15:10:08 - Thread-38] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[15:10:08 - Thread-38] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[15:10:09 - Thread-38] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[15:10:09 - Thread-38] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[15:10:10 - Thread-38] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[15:10:10 - Thread-38] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[15:10:12 - Thread-39] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703344212576
+[15:10:12 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703344212653.pcap
+[15:10:12 - Thread-39] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[15:10:15 - Thread-39] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703344215640	Duration: 3064 ms	Simulated time 74671 ms	Ratio 24.370430809399476
+[15:10:41 - Thread-40] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[15:10:41 - Thread-40] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[15:10:41 - Thread-40] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[15:10:41 - Thread-40] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[15:10:42 - Thread-40] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[15:10:42 - Thread-40] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[15:10:44 - Thread-41] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703344244073
+[15:10:44 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703344244164.pcap
+[15:10:44 - Thread-41] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[15:10:52 - Thread-41] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703344252116	Duration: 8043 ms	Simulated time 816296 ms	Ratio 101.49148327738406
+[15:14:22 - Thread-42] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[15:14:22 - Thread-42] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[15:14:22 - Thread-42] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[15:14:23 - Thread-42] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[15:14:23 - Thread-42] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[15:14:23 - Thread-42] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[15:14:25 - Thread-43] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703344465024
+[15:14:25 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703344465108.pcap
+[15:14:25 - Thread-43] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[15:14:35 - Thread-43] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703344475197	Duration: 10173 ms	Simulated time 1071421 ms	Ratio 105.32006291162882
+[15:14:53 - Thread-44] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[15:14:53 - Thread-44] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[15:14:53 - Thread-44] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[15:14:54 - Thread-44] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[15:14:54 - Thread-44] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[15:14:55 - Thread-44] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[15:14:56 - Thread-45] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703344496406
+[15:14:56 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703344496502.pcap
+[15:14:56 - Thread-45] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[15:14:59 - Thread-45] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703344499393	Duration: 2987 ms	Simulated time 304511 ms	Ratio 101.9454301975226
+[15:17:51 - Thread-46] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[15:17:51 - Thread-46] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[15:17:51 - Thread-46] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[15:17:51 - Thread-46] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[15:17:52 - Thread-46] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[15:17:52 - Thread-46] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[15:17:54 - Thread-47] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703344674221
+[15:17:54 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703344674308.pcap
+[15:17:54 - Thread-47] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[15:18:04 - Thread-47] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703344684046	Duration: 9825 ms	Simulated time 1022294 ms	Ratio 104.05027989821883
+[15:24:57 - Thread-48] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703345097718
+[15:25:07 - Thread-48] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703345107867	Duration: 10149 ms	Simulated time 2068498 ms	Ratio 203.8129865011331
+[15:27:16 - Thread-49] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[15:27:16 - Thread-49] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[15:27:16 - Thread-49] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[15:27:16 - Thread-49] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[15:27:17 - Thread-49] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[15:27:17 - Thread-49] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[15:27:19 - Thread-50] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703345239366
+[15:27:19 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703345239465.pcap
+[15:27:19 - Thread-50] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[15:27:22 - Thread-50] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703345242419	Duration: 3053 ms	Simulated time 315295 ms	Ratio 103.27382902063545
+[15:28:47 - Thread-51] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[15:28:47 - Thread-51] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[15:28:47 - Thread-51] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[15:28:47 - Thread-51] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[15:28:48 - Thread-51] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[15:28:48 - Thread-51] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[15:28:50 - Thread-52] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703345330000
+[15:28:50 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703345330099.pcap
+[15:28:50 - Thread-52] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[15:29:26 - Thread-52] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703345366798	Duration: 36798 ms	Simulated time 3763471 ms	Ratio 102.27379205391597
+[15:30:39 - Thread-53] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703345439398
+[15:30:59 - Thread-53] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703345459030	Duration: 19632 ms	Simulated time 5756879 ms	Ratio 293.23955786471066
+[15:31:10 - Thread-54] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703345470788
+[15:31:16 - Thread-54] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703345476021	Duration: 5233 ms	Simulated time 6306159 ms	Ratio 1205.0752914198356
+[15:34:41 - Thread-55] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[15:34:41 - Thread-55] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[15:34:42 - Thread-55] [SkyMoteType.java:171] [FATAL] - >>   AR        contiki-sky.a
+[15:34:42 - Thread-55] [SkyMoteType.java:171] [FATAL] - >>   CC        lbr.c
+[15:34:42 - Thread-55] [SkyMoteType.java:171] [FATAL] - >>   CC        6lowpan-nd-contiki/platform/sky/./contiki-sky-main.c
+[15:34:42 - Thread-55] [SkyMoteType.java:171] [FATAL] - >>   LD        lbr.sky
+[15:34:42 - Thread-55] [SkyMoteType.java:171] [FATAL] - >> contiki-sky.a(uip-ds6-route.o): In function `uip_ds6_defrt_periodic':
+[15:34:42 - Thread-55] [SkyMoteType.java:171] [FATAL] - >> /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/6lowpan-nd-contiki/core/net/ipv6/uip-ds6-route.c:719: undefined reference to `uip_ds6_send_rs'
+[15:34:42 - Thread-55] [SkyMoteType.java:171] [FATAL] - >> collect2: error: ld returned 1 exit status
+[15:34:42 - Thread-55] [SkyMoteType.java:171] [FATAL] - >> make: *** [6lowpan-nd-contiki/Makefile.include:281: lbr.sky] Error 1
+[15:34:42 - Thread-55] [SkyMoteType.java:171] [FATAL] - >> rm lbr.co obj_sky/contiki-sky-main.o
+[15:34:42 - Thread-55] [SkyMoteType.java:171] [FATAL] - >> Process returned error code 2
+[15:34:42 - Thread-55] [SkyMoteType.java:174] [FATAL] - Compilation error: Bad return value
+[15:36:32 - Thread-55] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[15:36:32 - Thread-55] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[15:36:32 - Thread-55] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[15:36:32 - Thread-55] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[15:36:33 - Thread-55] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[15:36:33 - Thread-55] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[15:36:35 - Thread-57] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703345795185
+[15:36:35 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703345795286.pcap
+[15:36:35 - Thread-57] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[15:36:55 - Thread-57] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703345815060	Duration: 19875 ms	Simulated time 1823052 ms	Ratio 91.72588679245283
+[15:38:42 - Thread-58] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[15:38:42 - Thread-58] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[15:38:42 - Thread-58] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[15:38:42 - Thread-58] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[15:38:43 - Thread-58] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[15:38:43 - Thread-58] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[15:38:44 - Thread-59] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703345924842
+[15:38:44 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703345924934.pcap
+[15:38:45 - Thread-59] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[15:39:42 - Thread-59] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703345982167	Duration: 57325 ms	Simulated time 6586046 ms	Ratio 114.88959441779329
+[15:47:28 - Thread-60] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[15:47:28 - Thread-60] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[15:47:28 - Thread-60] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[15:47:36 - Thread-60] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[15:47:36 - Thread-60] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[15:47:36 - Thread-60] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[15:47:38 - Thread-61] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703346458521
+[15:47:38 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703346458617.pcap
+[15:47:38 - Thread-61] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[15:48:14 - Thread-61] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703346494981	Duration: 36460 ms	Simulated time 3813648 ms	Ratio 104.59813494240264
+[14:49:00 - Thread-62] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[14:49:00 - Thread-62] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[14:49:01 - Thread-62] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[14:49:01 - Thread-62] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[14:49:01 - Thread-62] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[14:49:02 - Thread-62] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[14:49:03 - Thread-63] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703429343798
+[14:49:03 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703429343932.pcap
+[14:49:03 - Thread-63] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[14:49:23 - Thread-63] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703429363001	Duration: 19203 ms	Simulated time 1969096 ms	Ratio 102.54106129250638
+[14:51:00 - Thread-64] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[14:51:00 - Thread-64] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[14:51:01 - Thread-64] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[14:51:01 - Thread-64] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[14:51:01 - Thread-64] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[14:51:01 - Thread-64] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[14:51:03 - Thread-65] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703429463720
+[14:51:03 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703429463851.pcap
+[14:51:03 - Thread-65] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[14:51:06 - Thread-65] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703429466487	Duration: 2767 ms	Simulated time 268496 ms	Ratio 97.0350560173473
+[14:57:53 - Thread-66] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[14:57:53 - Thread-66] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[14:57:53 - Thread-66] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[14:57:53 - Thread-66] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[14:57:54 - Thread-66] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[14:57:54 - Thread-66] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[14:57:55 - Thread-67] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703429875969
+[14:57:56 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703429876086.pcap
+[14:57:56 - Thread-67] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[14:57:57 - Thread-67] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703429877722	Duration: 1753 ms	Simulated time 173903 ms	Ratio 99.2030804335425
+[15:02:36 - Thread-68] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[15:02:36 - Thread-68] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[15:02:37 - Thread-68] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[15:02:37 - Thread-68] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[15:02:37 - Thread-68] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[15:02:38 - Thread-68] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[15:02:38 - Thread-69] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703430158937
+[15:02:39 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703430159055.pcap
+[15:02:39 - Thread-69] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[15:02:40 - Thread-69] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703430160485	Duration: 1548 ms	Simulated time 152434 ms	Ratio 98.47157622739019
+[15:10:16 - Thread-70] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[15:10:16 - Thread-70] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[15:10:16 - Thread-70] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[15:10:16 - Thread-70] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[15:10:17 - Thread-70] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[15:10:17 - Thread-70] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[15:10:18 - Thread-71] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703430618909
+[15:10:19 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703430619007.pcap
+[15:10:19 - Thread-71] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[15:10:21 - Thread-71] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703430621135	Duration: 2226 ms	Simulated time 222402 ms	Ratio 99.911051212938
+[15:19:54 - Thread-72] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[15:19:54 - Thread-72] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[15:19:55 - Thread-72] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[15:19:55 - Thread-72] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[15:19:55 - Thread-72] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[15:19:56 - Thread-72] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[15:19:57 - Thread-73] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703431197260
+[15:19:57 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703431197359.pcap
+[15:19:57 - Thread-73] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[15:20:01 - Thread-73] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703431201807	Duration: 4547 ms	Simulated time 488170 ms	Ratio 107.36089729491972
+[15:28:45 - Thread-74] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[15:28:45 - Thread-74] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[15:28:46 - Thread-74] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[15:28:46 - Thread-74] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[15:28:46 - Thread-74] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[15:28:46 - Thread-74] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[15:28:48 - Thread-75] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703431728285
+[15:28:48 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703431728389.pcap
+[15:28:48 - Thread-75] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[15:28:49 - Thread-75] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703431729968	Duration: 1683 ms	Simulated time 167546 ms	Ratio 99.55199049316697
+[15:42:02 - Thread-76] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[15:42:02 - Thread-76] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[15:42:03 - Thread-76] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[15:42:03 - Thread-76] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[15:42:04 - Thread-76] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[15:42:04 - Thread-76] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[15:42:05 - Thread-77] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703432525700
+[15:42:05 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703432525810.pcap
+[15:42:05 - Thread-77] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[15:42:08 - Thread-77] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703432528444	Duration: 2744 ms	Simulated time 286033 ms	Ratio 104.23943148688046
+[15:42:54 - Thread-78] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[15:42:54 - Thread-78] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[15:42:55 - Thread-78] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[15:42:55 - Thread-78] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[15:42:55 - Thread-78] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[15:42:55 - Thread-78] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[15:43:28 - Thread-79] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[15:43:28 - Thread-79] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[15:43:28 - Thread-79] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[15:43:28 - Thread-79] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[15:43:29 - Thread-79] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[15:43:29 - Thread-79] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[15:43:30 - Thread-80] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703432610934
+[15:43:31 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703432611038.pcap
+[15:43:31 - Thread-80] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[15:43:32 - Thread-80] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703432612503	Duration: 1569 ms	Simulated time 152371 ms	Ratio 97.11344805608668
+[15:46:08 - Thread-81] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[15:46:08 - Thread-81] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[15:46:09 - Thread-81] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[15:46:09 - Thread-81] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[15:46:09 - Thread-81] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[15:46:09 - Thread-81] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[15:46:11 - Thread-82] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703432771375
+[15:46:11 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703432771474.pcap
+[15:46:11 - Thread-82] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[15:46:13 - Thread-82] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703432773616	Duration: 2241 ms	Simulated time 236113 ms	Ratio 105.36055332440874
+[15:53:41 - Thread-83] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[15:53:41 - Thread-83] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[15:53:42 - Thread-83] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[15:53:42 - Thread-83] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[15:53:42 - Thread-83] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[15:53:43 - Thread-83] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[15:53:44 - Thread-84] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703433224790
+[15:53:44 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703433224925.pcap
+[15:53:44 - Thread-84] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[15:53:46 - Thread-84] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703433226034	Duration: 1244 ms	Simulated time 115713 ms	Ratio 93.01688102893891
+[15:54:31 - Thread-85] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[15:54:31 - Thread-85] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[15:54:32 - Thread-85] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[15:54:32 - Thread-85] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[15:54:32 - Thread-85] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[15:54:32 - Thread-85] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[15:54:34 - Thread-86] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703433274437
+[15:54:34 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703433274568.pcap
+[15:54:34 - Thread-86] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[15:54:35 - Thread-86] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703433275674	Duration: 1237 ms	Simulated time 123025 ms	Ratio 99.45432497978982
+[15:56:36 - Thread-87] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[15:56:36 - Thread-87] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[15:56:36 - Thread-87] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[15:56:36 - Thread-87] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[15:56:36 - Thread-87] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[15:56:37 - Thread-87] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[15:56:38 - Thread-88] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703433398764
+[15:56:38 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703433398853.pcap
+[15:56:38 - Thread-88] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[15:56:41 - Thread-88] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703433401405	Duration: 2641 ms	Simulated time 272172 ms	Ratio 103.05641802347596
+[15:58:33 - Thread-89] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[15:58:33 - Thread-89] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[15:58:34 - Thread-89] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[15:58:34 - Thread-89] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[15:58:34 - Thread-89] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[15:58:34 - Thread-89] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[15:58:36 - Thread-90] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703433516062
+[15:58:36 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703433516213.pcap
+[15:58:36 - Thread-90] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[15:58:37 - Thread-90] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703433517438	Duration: 1376 ms	Simulated time 123774 ms	Ratio 89.95203488372093
+[15:59:54 - Thread-91] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[15:59:54 - Thread-91] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[15:59:55 - Thread-91] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[15:59:55 - Thread-91] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[15:59:56 - Thread-91] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[15:59:56 - Thread-91] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[15:59:57 - Thread-92] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703433597606
+[15:59:57 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703433597742.pcap
+[15:59:57 - Thread-92] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[15:59:58 - Thread-92] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703433598866	Duration: 1260 ms	Simulated time 123296 ms	Ratio 97.85396825396825
+[16:02:20 - Thread-93] [Simulation.java:422] [INFO] - Simulation random seed: 123456
+[16:02:20 - Thread-93] [CompileContiki.java:140] [INFO] - > make lbr.sky TARGET=sky 
+[16:02:21 - Thread-93] [CompileContiki.java:140] [INFO] - > make ln.sky TARGET=sky 
+[16:02:21 - Thread-93] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/lbr.sky
+[16:02:21 - Thread-93] [MspMote.java:235] [INFO] - Loading firmware from: /home/user/6lowpan-nd-contiki/6lowpan-nd-6lbr/../6lowpan-nd-6ln/ln.sky
+[16:02:21 - Thread-93] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[16:02:25 - Thread-94] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1703433745094
+[16:02:25 - AWT-EventQueue-0] [PcapExporter.java:36] [INFO] - Opened pcap file radiolog-1703433745194.pcap
+[16:02:25 - Thread-94] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0016
+[16:02:26 - Thread-94] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1703433746663	Duration: 1569 ms	Simulated time 159346 ms	Ratio 101.55895474824729
